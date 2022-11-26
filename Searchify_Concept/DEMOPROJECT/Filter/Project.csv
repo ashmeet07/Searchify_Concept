@@ -1,0 +1,150 @@
+Zone_Code,Hostel_Name,Area_Name,Hostel_Rent,Person's,Room_Size,Kitchen,Meal,Furnished,Contact_D
+Z-1,AYUSHI Hostel,Bholaram,"? 1,400.00",1,Single,No,Yes,Yes,7000000001
+Z-2,ABINAYA Hostel,Rajendra Nagar,"? 2,000.00",1,Double,No,Yes,Yes,7000000002
+Z-3,ABISHEK Hostel,Amitesh Nagar,"? 2,500.00",2,Triple,No,Yes,Yes,7000000003
+Z-4,ADITYA Hostel,Prem Nagar,"? 1,350.00",3,Quad,No,Yes,Yes,7000000004
+Z-5,AJAY Hostel,Guru Nanak Colony,"? 1,500.00",4,Single,No,Yes,Yes,7000000005
+Z-6,AKHIL Hostel,Bholaram,"? 1,615.00",1,Double,No,Yes,Yes,7000000006
+Z-7,AMEYA Hostel,Rajendra Nagar,"? 1,570.00",1,Triple,No,Yes,Yes,7000000007
+Z-8,AMRUTHA Hostel,Amitesh Nagar,"? 1,525.00",2,Quad,No,Yes,Yes,7000000008
+Z-9,ANIRBAN Hostel,Prem Nagar,"? 1,480.00",3,Single,No,Yes,Yes,7000000009
+Z-10,ANISHA Hostel,Guru Nanak Colony,"? 1,435.00",4,Double,No,Yes,Yes,7000000010
+Z-11,ANKIT Hostel,Bholaram,"? 1,390.00",1,Triple,No,Yes,Yes,7000000011
+Z-12,ANNU Hostel,Bholaram,"? 1,345.00",1,Quad,No,Yes,Yes,7000000012
+Z-13,ANOHITA Hostel,Rajendra Nagar,"? 1,300.00",2,Single,No,Yes,Yes,7000000013
+Z-14,ARATRIKA Hostel,Amitesh Nagar,"? 1,255.00",3,Double,No,Yes,Yes,7000000014
+Z-15,ATHIRA Hostel,Rajendra Nagar,"? 1,210.00",4,Triple,No,Yes,Yes,7000000015
+Z-16,BANE Hostel,Amitesh Nagar,"? 1,165.00",1,Quad,No,Yes,Yes,7000000016
+Z-17,BHARAT Hostel,Prem Nagar,"? 1,120.00",1,Single,No,Yes,Yes,7000000017
+Z-18,BHASWATI Hostel,Guru Nanak Colony,"? 1,075.00",2,Double,No,Yes,Yes,7000000018
+Z-19,BIBHUTI Hostel,Bholaram,"? 3,000.00",3,Triple,No,Yes,Yes,7000000019
+Z-20,CHANDAN Hostel,Bholaram,"? 4,000.00",4,Quad,No,Yes,Yes,7000000020
+Z-21,DEEPAK Hostel,Rajendra Nagar,"? 4,500.00",1,Single,Yes,No,Yes,7000000021
+Z-22,DEEPTHI Hostel,Amitesh Nagar,"? 2,800.00",1,Double,No,Yes,Yes,7000000022
+Z-23,DHANUSH.SR Hostel,Rajendra Nagar,"? 3,200.00",2,Triple,No,Yes,Yes,7000000023
+Z-24,DHRIMADRI Hostel,Amitesh Nagar,"? 2,723.38",3,Quad,No,Yes,Yes,7000000024
+Z-25,FAZLU Hostel,Prem Nagar,"? 2,791.87",4,Single,No,Yes,Yes,7000000025
+Z-26,GURWINDER Hostel,Guru Nanak Colony,"? 2,860.36",1,Double,No,Yes,Yes,7000000026
+Z-27,HARSH Hostel,Rajendra Nagar,"? 2,928.84",1,Triple,No,Yes,Yes,7000000027
+Z-28,INDRANI Hostel,Amitesh Nagar,"? 2,997.33",2,Quad,No,Yes,Yes,7000000028
+Z-29,JUDHAJEET Hostel,Prem Nagar,"? 3,065.82",3,Single,No,Yes,Yes,7000000029
+Z-30,JYOTI Hostel,Guru Nanak Colony,"? 3,134.31",4,Double,No,Yes,Yes,7000000030
+Z-31,KAJOL Hostel,Rajendra Nagar,"? 3,202.80",1,Triple,No,Yes,Yes,7000000031
+Z-32,KHUSHBU Hostel,Amitesh Nagar,"? 3,271.28",1,Quad,No,Yes,Yes,7000000032
+Z-33,LUPAMUDRA Hostel,Bholaram,"? 3,339.77",2,Single,No,Yes,Yes,7000000033
+Z-34,MANJUNATH Hostel,Rajendra Nagar,"? 3,408.26",3,Double,No,Yes,Yes,7000000034
+Z-35,MASROOR Hostel,Amitesh Nagar,"? 3,476.75",4,Triple,No,Yes,Yes,7000000035
+Z-36,MANIKA Hostel,Prem Nagar,"? 3,545.24",1,Quad,No,Yes,Yes,7000000036
+Z-37,MAYA Hostel,Guru Nanak Colony,"? 3,613.73",1,Single,No,Yes,Yes,7000000037
+Z-38,MEENAKSHI Hostel,Bholaram,"? 3,682.21",2,Double,No,Yes,Yes,7000000038
+Z-39,NEERAJ Hostel,Rajendra Nagar,"? 3,750.70",3,Triple,No,Yes,Yes,7000000039
+Z-40,NITESH Hostel,Amitesh Nagar,"? 3,819.19",4,Quad,No,Yes,Yes,7000000040
+Z-41,NITISH Hostel,Prem Nagar,"? 3,887.68",1,Single,No,Yes,Yes,7000000041
+Z-42,PALLAVI Hostel,Guru Nanak Colony,"? 3,956.17",1,Double,No,Yes,Yes,7000000042
+Z-43,PARTHA Hostel,Bholaram,"? 4,024.65",2,Triple,Yes,No,Yes,7000000043
+Z-44,PARVATHY Hostel,Bholaram,"? 4,093.14",3,Quad,Yes,No,Yes,7000000044
+Z-45,PAVANKUMAR Hostel,Rajendra Nagar,"? 4,161.63",4,Single,Yes,No,Yes,7000000045
+Z-46,PAYEL Hostel,Amitesh Nagar,"? 4,230.12",1,Double,Yes,No,Yes,7000000046
+Z-47,RAKSHIT Hostel,Rajendra Nagar,"? 4,298.61",1,Triple,Yes,No,Yes,7000000047
+Z-48,RADHIKA Hostel,Amitesh Nagar,"? 4,367.09",2,Quad,Yes,No,Yes,7000000048
+Z-49,RAVEENA Hostel,Prem Nagar,"? 4,435.58",3,Single,Yes,No,Yes,7000000049
+Z-50,RAVI Hostel,Guru Nanak Colony,"? 4,504.07",4,Double,Yes,No,Yes,7000000050
+Z-51,RENU Hostel,Bholaram,"? 4,572.56",1,Triple,Yes,No,Yes,7000000051
+Z-52,RISHABH Hostel,Bholaram,"? 4,641.05",1,Quad,Yes,No,Yes,7000000052
+Z-53,RITESH Hostel,Rajendra Nagar,"? 4,709.54",2,Single,Yes,No,Yes,7000000053
+Z-54,RUPESH Hostel,Amitesh Nagar,"? 4,778.02",3,Double,Yes,No,Yes,7000000054
+Z-55,SARASWATHI Hostel,Rajendra Nagar,"? 4,846.51",4,Triple,Yes,No,Yes,7000000055
+Z-56,SHASHANK Hostel,Amitesh Nagar,"? 4,915.00",1,Quad,Yes,No,Yes,7000000056
+Z-57,SHATAKSHI Hostel,Prem Nagar,"? 4,983.49",1,Single,Yes,No,Yes,7000000057
+Z-58,SHUBHAM Hostel,Guru Nanak Colony,"? 5,051.98",2,Double,Yes,No,Yes,7000000058
+Z-59,SAHEL Hostel,Rajendra Nagar,"? 5,120.46",3,Triple,Yes,No,Yes,7000000059
+Z-60,SAIKHOM Hostel,Amitesh Nagar,"? 5,188.95",4,Quad,Yes,No,Yes,7000000060
+Z-61,SAILI Hostel,Prem Nagar,"? 5,257.44",1,Single,Yes,No,Yes,7000000061
+Z-62,SAMBIT Hostel,Guru Nanak Colony,"? 5,325.93",1,Double,Yes,No,Yes,7000000062
+Z-63,SAMRIDDHI Hostel,Rajendra Nagar,"? 5,394.42",2,Triple,Yes,No,Yes,7000000063
+Z-64,SANKALP Hostel,Amitesh Nagar,"? 5,462.91",3,Quad,Yes,No,Yes,7000000064
+Z-65,SHAIK Hostel,Bholaram,"? 5,531.39",4,Single,Yes,No,Yes,7000000065
+Z-66,SHARMILA Hostel,Rajendra Nagar,"? 5,599.88",1,Double,Yes,No,Yes,7000000066
+Z-67,SHIVANI Hostel,Amitesh Nagar,"? 5,668.37",1,Triple,Yes,No,Yes,7000000067
+Z-68,SHUBHAM Hostel,Prem Nagar,"? 5,736.86",2,Quad,Yes,No,Yes,7000000068
+Z-69,SHUBHANGI Hostel,Guru Nanak Colony,"? 5,805.35",3,Single,Yes,No,Yes,7000000069
+Z-70,SIOREE Hostel,Bholaram,"? 5,873.83",4,Double,Yes,No,Yes,7000000070
+Z-71,SIPRA Hostel,Rajendra Nagar,"? 5,942.32",1,Triple,Yes,No,Yes,7000000071
+Z-72,SONITH Hostel,Amitesh Nagar,"? 6,010.81",1,Quad,Yes,No,Yes,7000000072
+Z-73,SOUMYA Hostel,Prem Nagar,"? 6,079.30",2,Single,Yes,No,Yes,7000000073
+Z-74,SOUMYARANJAN Hostel,Guru Nanak Colony,"? 6,147.79",3,Double,Yes,No,Yes,7000000074
+Z-75,SRI Hostel,Bholaram,"? 2,300.00",1,Triple,No,Yes,Yes,7000000075
+Z-76,SRINATH Hostel,Bholaram,"? 1,200.00",1,Quad,No,Yes,Yes,7000000076
+Z-77,SRIRAM Hostel,Rajendra Nagar,"? 4,000.00",2,Single,No,Yes,Yes,7000000077
+Z-78,SUBHASHREE Hostel,Amitesh Nagar,"? 5,845.15",3,Double,Yes,No,Yes,7000000078
+Z-79,SUMAN Hostel,Rajendra Nagar,"? 5,902.63",4,Triple,Yes,No,Yes,7000000079
+Z-80,SUSHANT Hostel,Amitesh Nagar,"? 5,960.12",3,Quad,Yes,No,Yes,7000000080
+Z-81,SWASTIK Hostel,Prem Nagar,"? 6,017.60",4,Single,Yes,No,Yes,7000000081
+Z-82,VISHNU Hostel,Guru Nanak Colony,"? 6,075.09",1,Double,Yes,No,Yes,7000000082
+Z-83,KSHAMA Hostel,Bholaram,"? 6,132.57",1,Triple,Yes,No,Yes,7000000083
+Z-84,AYUSHI Hostel,Bholaram,"? 6,190.06",2,Quad,Yes,No,Yes,7000000084
+Z-85,ABINAYA Hostel,Rajendra Nagar,"? 6,247.54",3,Single,Yes,No,Yes,7000000085
+Z-86,ABISHEK Hostel,Amitesh Nagar,"? 6,305.03",4,Double,Yes,No,Yes,7000000086
+Z-87,ADITYA Hostel,Rajendra Nagar,"? 6,362.51",1,Triple,Yes,No,Yes,7000000087
+Z-88,AJAY Hostel,Amitesh Nagar,"? 6,420.00",1,Quad,Yes,No,Yes,7000000088
+Z-89,AKHIL Hostel,Prem Nagar,"? 6,477.48",2,Single,Yes,No,Yes,7000000089
+Z-90,AMEYA Hostel,Guru Nanak Colony,"? 6,534.97",3,Double,Yes,No,Yes,7000000090
+Z-91,AMRUTHA Hostel,Rajendra Nagar,"? 6,592.45",4,Triple,Yes,No,Yes,7000000091
+Z-92,ANIRBAN Hostel,Amitesh Nagar,"? 6,649.94",1,Quad,Yes,No,Yes,7000000092
+Z-93,ANISHA Hostel,Prem Nagar,"? 6,707.42",1,Single,Yes,No,Yes,7000000093
+Z-94,AYUSHI Hostel,Guru Nanak Colony,"? 6,764.91",2,Double,Yes,No,Yes,7000000094
+Z-95,ABINAYA Hostel,Rajendra Nagar,"? 6,822.39",3,Triple,Yes,No,Yes,7000000095
+Z-96,ABISHEK Hostel,Amitesh Nagar,"? 6,879.88",4,Quad,Yes,No,Yes,7000000096
+Z-97,ADITYA Hostel,Bholaram,"? 6,937.36",1,Single,Yes,No,Yes,7000000097
+Z-98,AJAY Hostel,Rajendra Nagar,"? 6,994.85",1,Double,Yes,No,Yes,7000000098
+Z-99,AYUSHI Hostel,Amitesh Nagar,"? 7,052.33",2,Triple,Yes,No,Yes,7000000099
+Z-100,ABINAYA Hostel,Prem Nagar,"? 7,109.82",3,Quad,Yes,No,Yes,7000000100
+Z-101,ABISHEK Hostel,Guru Nanak Colony,"? 7,167.30",4,Single,Yes,No,Yes,7000000101
+Z-102,ADITYA Hostel,Bholaram,"? 7,224.78",1,Double,Yes,No,Yes,7000000102
+Z-103,AJAY Hostel,Rajendra Nagar,"? 7,282.27",1,Triple,Yes,No,Yes,7000000103
+Z-104,AKHIL Hostel,Amitesh Nagar,"? 7,339.75",2,Quad,Yes,No,Yes,7000000104
+Z-105,AMEYA Hostel,Prem Nagar,"? 7,397.24",3,Single,Yes,No,Yes,7000000105
+Z-106,AMRUTHA Hostel,Guru Nanak Colony,"? 7,454.72",4,Double,Yes,No,Yes,7000000106
+Z-107,ANIRBAN Hostel,Bholaram,"? 7,512.21",1,Triple,Yes,No,Yes,7000000107
+Z-108,AYUSHI Hostel,Bholaram,"? 7,569.69",1,Quad,Yes,No,Yes,7000000108
+Z-109,ABINAYA Hostel,Rajendra Nagar,"? 7,627.18",2,Single,Yes,No,Yes,7000000109
+Z-110,ABISHEK Hostel,Amitesh Nagar,"? 7,684.66",3,Double,Yes,No,Yes,7000000110
+Z-111,ADITYA Hostel,Rajendra Nagar,"? 1,200.00",4,Triple,No,Yes,Yes,7000000111
+Z-112,AJAY Hostel,Amitesh Nagar,"? 3,000.00",1,Quad,No,Yes,Yes,7000000112
+Z-113,AKHIL Hostel,Prem Nagar,"? 2,900.00",1,Single,No,Yes,Yes,7000000113
+Z-114,AMEYA Hostel,Guru Nanak Colony,"? 4,066.67",2,Double,Yes,No,Yes,7000000114
+Z-115,AMRUTHA Hostel,Bholaram,"? 4,916.67",3,Triple,Yes,No,Yes,7000000115
+Z-116,AYUSHI Hostel,Bholaram,"? 5,766.67",4,Quad,Yes,No,Yes,7000000116
+Z-117,ABINAYA Hostel,Rajendra Nagar,"? 6,616.67",1,Single,Yes,No,Yes,7000000117
+Z-118,ABISHEK Hostel,Amitesh Nagar,"? 7,466.67",1,Double,Yes,No,Yes,7000000118
+Z-119,ADITYA Hostel,Rajendra Nagar,"? 8,316.67",2,Triple,Yes,No,Yes,7000000119
+Z-120,AJAY Hostel,Amitesh Nagar,"? 1,200.00",3,Quad,No,Yes,Yes,7000000120
+Z-121,AKHIL Hostel,Prem Nagar,"? 3,000.00",4,Single,No,Yes,Yes,7000000121
+Z-122,AMEYA Hostel,Guru Nanak Colony,"? 2,900.00",1,Double,No,Yes,Yes,7000000122
+Z-123,AMRUTHA Hostel,Rajendra Nagar,"? 1,200.00",1,Triple,No,Yes,Yes,7000000123
+Z-124,ANIRBAN Hostel,Amitesh Nagar,"? 3,000.00",2,Quad,No,Yes,Yes,7000000124
+Z-125,AYUSHI Hostel,Prem Nagar,"? 2,900.00",3,Single,No,Yes,Yes,7000000125
+Z-126,ABINAYA Hostel,Guru Nanak Colony,"? 1,200.00",4,Double,No,Yes,Yes,7000000126
+Z-127,ABISHEK Hostel,Rajendra Nagar,"? 3,000.00",1,Triple,No,Yes,Yes,7000000127
+Z-128,ADITYA Hostel,Amitesh Nagar,"? 2,900.00",1,Quad,No,Yes,Yes,7000000128
+Z-129,AJAY Hostel,Bholaram,"? 6,426.97",2,Single,Yes,No,Yes,7000000129
+Z-130,AKHIL Hostel,Rajendra Nagar,"? 6,458.02",3,Double,Yes,No,Yes,7000000130
+Z-131,AMEYA Hostel,Amitesh Nagar,"? 6,489.08",4,Triple,Yes,No,Yes,7000000131
+Z-132,AMRUTHA Hostel,Prem Nagar,"? 6,520.14",1,Quad,Yes,No,Yes,7000000132
+Z-133,ANIRBAN Hostel,Guru Nanak Colony,"? 6,551.20",1,Single,Yes,No,Yes,7000000133
+Z-134,ANISHA Hostel,Bholaram,"? 6,582.25",2,Double,Yes,No,Yes,7000000134
+Z-135,AYUSHI Hostel,Rajendra Nagar,"? 6,613.31",3,Triple,Yes,No,Yes,7000000135
+Z-136,ABINAYA Hostel,Amitesh Nagar,"? 6,644.37",4,Quad,Yes,No,Yes,7000000136
+Z-137,ABISHEK Hostel,Prem Nagar,"? 6,675.42",1,Single,Yes,No,Yes,7000000137
+Z-138,ADITYA Hostel,Guru Nanak Colony,"? 6,706.48",1,Double,Yes,No,Yes,7000000138
+Z-139,AJAY Hostel,Bholaram,"? 6,737.54",1,Triple,Yes,No,Yes,7000000139
+Z-140,AKHIL Hostel,Bholaram,"? 6,768.60",1,Quad,Yes,No,Yes,7000000140
+Z-141,AYUSHI Hostel,Rajendra Nagar,"? 6,799.65",2,Single,Yes,No,Yes,7000000141
+Z-142,ABINAYA Hostel,Amitesh Nagar,"? 6,830.71",3,Double,Yes,No,Yes,7000000142
+Z-143,ABISHEK Hostel,Rajendra Nagar,"? 6,861.77",1,Triple,Yes,No,Yes,7000000143
+Z-144,ADITYA Hostel,Amitesh Nagar,"? 6,892.83",1,Quad,Yes,No,Yes,7000000144
+Z-145,AJAY Hostel,Prem Nagar,"? 6,923.88",1,Single,Yes,No,Yes,7000000145
+Z-146,AKHIL Hostel,Guru Nanak Colony,"? 6,954.94",1,Double,Yes,No,Yes,7000000146
+Z-147,AMEYA Hostel,Bholaram,"? 6,986.00",2,Triple,Yes,No,Yes,7000000147
+Z-148,AMRUTHA Hostel,Bholaram,"? 7,017.06",3,Quad,Yes,No,Yes,7000000148
+Z-149,ANIRBAN Hostel,Rajendra Nagar,"? 7,048.11",3,Single,Yes,No,Yes,7000000149

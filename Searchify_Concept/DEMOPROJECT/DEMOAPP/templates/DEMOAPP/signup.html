@@ -1,0 +1,104 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign UP</title>
+</head>
+<style>
+    *{
+        border-radius: 10px;
+    }
+body{
+    background-image: url("{% static 'DEMOAPP/images/back.png'  %}");
+}
+form{
+    height: 400px;
+    width: 500px;
+    border: 1px solid rgb(255, 250, 250);
+    margin-left: 300px;
+    box-shadow: 0px 2px 5px 3px rgb(255, 255, 255);
+    margin-top: 40px;
+}
+    /* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn,.signupbtn {
+    float: left;
+    width: 50%;
+}
+
+/* Add padding to container elements */
+.container {
+    padding: 16px;
+}
+
+/* Clear floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+        width: 100%;
+    }
+}
+</style>
+<body>
+    <div>
+        <form action="#" method="POST">
+            {% csrf_token %}
+            <div class="container">
+              <label style="color:white;"><b>Email</b></label>
+              <input type="text" placeholder="Enter Email" name="email" required>
+          
+              <label style="color:white;"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="psw" required minlength="10">
+          
+              <label style="color:white;"><b>Confirm Password</b></label>
+              <input type="password" placeholder="Repeat Password" name="psw-repeat" required minlength="10">
+              <input type="checkbox" checked="checked" style="color:white;">
+              <p style="color:white;">By creating an account you agree to our <a href="#" style="text-decoration: none;color:white;text-shadow:4px 3px 4px  white">Terms & Privacy</a>.</p>
+          
+              <div class="clearfix"style="color:white;">
+                <button type="button"  class="cancelbtn" style="margin:2px ;width:100px;padding:10px;box-shadow: 0px 2px 5px 3px rgb(255, 255, 255); position: relative;
+                left: 70px;">Cancel</button>
+                <button type="submit" class="signupbtn"style="width:100px;margin:2px ;
+                position: relative;
+                left:180px;padding:10px;box-shadow: 0px 2px 5px 3px rgb(255, 255, 255);">Sign Up</button>
+              </div>
+            </div>
+          </form>
+    </div>
+</body>
+</html>

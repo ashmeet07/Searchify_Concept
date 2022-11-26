@@ -1,0 +1,243 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home | Searchify</title>
+    <!-- <link rel="stylesheet" href="style.css"> -->
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
+    <link rel="shortcut icon" href="{% static 'DEMOAPP/images/images.png'  %}" style="border-radius:100%;"/>
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@1,300&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("{% static 'DEMOAPP/images/back.png'  %}");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    padding-right: 20px;
+}
+li,a{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color: #edf0f1;
+    text-decoration: none;
+    margin: 5px;
+    position: relative;
+    left: 80px;
+    padding: 3px 2px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+} 
+.logo{
+    height: 50px;
+    width: 50px;
+    margin-left: 130px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+    position:relative;
+    top: 10px;
+    left: -90px;
+}
+.nav_links{
+    list-style: none;
+    margin-left: 70px;
+    margin: 10px;
+    margin-top: 30px;
+}
+.nav_links li{
+    display: inline-block;
+    padding: 3px 2px;
+}
+.nav_links li a{
+    transition: all 0.3s ease 0s;
+}
+.nav_links li a:hover{
+    color: #0088a9;
+}
+#title{
+    text-align: center;
+    color: white;
+    font-size: 49px;  
+    font-family: 'Exo 2', sans-serif;
+    position: relative;
+    left: 20px;
+    margin-top: -40px;
+}
+.search{
+    margin-left: 280px;
+    width: 550px;
+    padding: 10px;
+}
+.search-bar {
+    width: 100%;
+    max-width: 659px;
+    background: rgba(255, 255, 255, 0.2);
+    display: flex;
+    backdrop-filter: blur(4px) saturate(180%);
+    align-items: center;
+    border-radius: 60px;
+    margin-top: 40px;
+}
+.search-bar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 2px;
+    font-size: 20px;
+    color: #cac7ff;
+    margin-left: 16px;
+}
+::placeholder{
+    color: #cac7ff;
+}
+.search-bar button img{
+    width: 25px;
+}
+.search-bar button {
+    border: 0;
+    border-radius: 50%;
+    margin-right: -4px;
+    width: 60px;
+    height: 60px;
+    background: #58629b;
+    cursor: pointer;
+}
+#icon{
+    color: white;
+    cursor: pointer;
+    position: relative;
+    right: 120px;
+    top: 10px;
+}
+#icon i:hover{
+    color: #0088a9;
+    transition: all 0.3s ease 0s;
+}
+.container{
+    margin-top: 100px;
+}
+.content{
+    max-width: 500px;
+    color: white;
+    font-size: 30px ;
+    font-family: 'Kalam', cursive;
+    position: relative;
+    left: 355px;
+    margin-top: 15px;
+}
+.btn{
+    position: relative;
+    left: 39px;
+    margin-top: 10px;
+}
+.get-started{
+    background-color: #204271;
+    color: white;
+    padding: 9px 12px;
+    border: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: -13px;
+}
+.get-started:hover{
+    background-color: green;
+    color: white;
+    padding: 6px 9px;
+    border: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all 0.2s ease 0s;
+} 
+.wrapper {
+    height: 11vh;
+    display: grid;
+    place-items: center;
+  }
+  
+  .typing-demo {
+    width: 33ch;
+    animation: typing 2s steps(120), blink 0.1s step-end;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    font-family: monospace;
+    font-size: 1em;
+    margin-left: -73px;
+  }
+  @keyframes typing {
+    from {
+      width: 0
+    }
+    to{
+        width: 100%;
+    }
+  }
+      
+  @keyframes blink {
+    100% {
+      border-color: transparent
+    }
+  }
+
+</style>
+
+<body>
+    <header>
+        <a href="HOME"><img class="logo" src="{% static 'DEMOAPP/images/images.png'  %}" alt="Error_loading_logo"></a>
+        <nav>
+            <ul class="nav_links">
+                <li><a id="a" href="AboutUs">ABOUT</a></li>
+                <li><a id="c" href="ContactInfo">CONTACT</a></li>
+                <li><a id="s" href="SUPPORT">SUPPORT</a></li>
+            </ul>
+        </nav>
+        <span>
+            <ul id="icon">
+               <a href="signup"><i class="fa fa-user" aria-hidden="true"></i></a> 
+            </ul>
+        </span>
+    </header>
+    <main class="container">
+        <h1 id="title">SEARCHIFY</h1>
+        <div class="search">
+            <form action="Maintanace" method="get" class="search-bar">
+                <input type="text" placeholder="Search here" name="hostel">
+                <button type="submit"><img src="{% static 'DEMOAPP/images/search.png'  %}"></button>
+            </form>
+        </div>
+        <div class="content">
+            <div class="wrapper">
+                <div class="typing-demo">
+                    <p>"Experience a new way of living."</p>
+                </div>
+            </div>
+
+            <div class="btn">
+                <a href="Maintanace"><button class="get-started">Get Started &#8594</button></a>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
