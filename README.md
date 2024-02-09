@@ -1,6 +1,5 @@
 # Searchify_Concept
-If any one want to Take the code please take permission first .Or mail on gaminggods0123@gmail.com
- Languages used in this project is Python for backend, HTML and CSS for Frontend.
+If any one want to take the code please take permission first .Or mail on gaminggods0123@gmail.com.Languages used in this project is Python for backend, Framework Django, HTML and CSS for Frontend.
 
  ## **Searchify Glimpse** 
  
